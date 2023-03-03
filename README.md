@@ -1,2 +1,2 @@
 # git_github
-training purpos
+Training purpos
